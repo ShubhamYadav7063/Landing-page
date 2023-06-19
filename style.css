@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
 
 * {
     box-sizing: border-box;
@@ -88,7 +88,7 @@ main section {
 
 /* section 3 */
 
-.artist a{
+.artist a {
     text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ main section {
     text-align: center;
     margin: 50px;
     text-decoration: underline;
-    cursor:default;
+    cursor: default;
 }
 
 
@@ -124,10 +124,10 @@ figcaption {
     color: #1F2937;
 }
 
-figcaption:hover{
+figcaption:hover {
     cursor: pointer;
     text-decoration: underline;
-    transition: text-decoration 1s ease-in ;
+    transition: text-decoration 1s ease-in;
 }
 
 
